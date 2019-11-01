@@ -1,2 +1,2 @@
-# QuantSeed!
+# QuantSeed
 
